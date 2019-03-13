@@ -10,4 +10,10 @@
 1、通过实验发现，内容特征的表达，在浅层卷积层表现的比较好，风格表达在深层网络表现的更好，训练过程取浅层网络为内容表达，深层网络为风格表达  
 2、通过修改content_features，result_content_features，style_features，result_style_features确定哪一层为内容表达和特征表达，也可选择多个层卷积为内容表达和特征表达
 
-效果展示：
+## 效果展示：
+#### 结果图
+![](picture/result.jpg)[](picture/result.jpg)
+#### 风格图
+![](picture/xingkong.jpg)[](picture/xingkong.jpg)
+#### 内容图
+![](picture/pengyuyan.jpg)[](picture/pengyuyan.jpg)
